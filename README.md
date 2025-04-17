@@ -10,12 +10,9 @@ Trabalho com análise e correções em ambientes de produção, especialmente co
 
 Atualmente estou criando um app de serviços domésticos com interfaces distintas para clientes e prestadores — focado em praticidade e usabilidade. Também estou estruturando projetos públicos no GitHub com foco em APIs REST, automações úteis e ferramentas para produtividade.
 <br/>  
-🚀 Confira meu projeto mais recente:
-<br/>  
-🔗 [coloque aqui o link para o projeto no GitHub]
-<br/>  
-📄 Veja meu currículo: [Clique aqui](https://github.com/gilsivan/gilsivan/blob/main/Curriculo_Gilsivan_TI.pdf)
-<br/>  
+🚀 Confira meu projeto mais recente:<br/>  
+🔗 [coloque aqui o link para o projeto no GitHub]<br/>  
+📄 Veja meu currículo: [Clique aqui](https://github.com/gilsivan/gilsivan/blob/main/Curriculo_Gilsivan_TI.pdf)<br/>  
 📬 Aberto a novas conexões, colaborações e oportunidades freelance.
 
 </div>  
