@@ -12,7 +12,7 @@ Atualmente estou criando um app de serviços domésticos com interfaces distinta
 <br/>  
 🚀 Confira meu projeto mais recente:<br/>  
 🔗 [coloque aqui o link para o projeto no GitHub]<br/>  
-📄 Veja meu currículo: [Clique aqui](https://github.com/gilsivan/gilsivan/blob/main/Curriculo_Gilsivan_TI.pdf)<br/>  
+📄 Veja meu currículo: [Clique aqui](https://github.com/gilsivan/gilsivan/blob/main/Curriculo_Gilsivan_TI2.pdf)<br/>  
 📬 Aberto a novas conexões, colaborações e oportunidades freelance.
 
 </div>  
