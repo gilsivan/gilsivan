@@ -1,5 +1,5 @@
 <h1 align="center">Gilsivan de Jesus Santos</h1>
-<h3 align="center">Desenvolvedor full-stack | APIs, automações e sistemas web localizado em Buzios, Rio de Janeiro 📍 </h3>  
+<h3 align="center">Desenvolvedor full-stack | APIs, automações e sistemas web localizado em São Paulo, SP 📍 </h3>  
 
 
 Atuo na área de TI com foco em desenvolvimento back-end usando Node.js, além de experiência com automações, integração de sistemas e análises de dados. Tenho trabalhado em projetos que envolvem desde APIs para serviços domésticos até transmissões ao vivo integradas ao TikTok, sempre buscando soluções práticas, eficientes e escaláveis.
